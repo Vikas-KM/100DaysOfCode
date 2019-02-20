@@ -1,3 +1,3 @@
-# DAY 01 Starting with **CSS**
+# Round 01 logs
 
-[Day 01](/Round_1/Day_01.html)
+[Round 01](/Round_1/Round_01.html)
